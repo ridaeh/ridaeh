@@ -19,7 +19,7 @@
 #### Who Am I? 
 Briefly, let’s just say I’m a Engineer, full time multitasking Ninja.  
 
-In details , I'm ridae hamdani, writer, developer and other things. I'm interested in way too many things including mobile dev ,fullstack ,DevOps, AI ... I am endlessly curious. I loves to share the cool stuff I discovered (especially when it can make other people's life easier). During my free time, I also like to read books , watching series ...
+In details , I'm ridae hamdani, writer, developer and other things. I'm interested in way too many things including mobile dev ,fullstack ,DevOps, AI ... I am endlessly curious. I love to share the cool stuff I discovered (especially when it can make other people's life easier). During my free time, I also like to read books , watching series ...
 My daily objectif is to became an advocate 
 
 PS: If you read this till this PS, it’s that I owe you a “Thanks for your time”!
