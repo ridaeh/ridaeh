@@ -1,4 +1,4 @@
-### Hello there, I'm [Ridae!](https://hemant.codes) 👋. 
+### Hello there, I'm [Ridae!](https://ridaeh.com) 👋. 
 <br>
 <a href="https://twitter.com/ridaehamdani">
   <img align="left" alt="Ridae HAMDANI| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -24,5 +24,6 @@ My daily objectif is to became an advocate 
 
 PS: If you read this till this PS, it’s that I owe you a “Thanks for your time”!
 
+My first product was [Readivio!](https://readivio.com),  a tool to send articles & newsletters to Kindle.
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ridaeh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
